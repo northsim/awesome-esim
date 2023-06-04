@@ -1,4 +1,4 @@
-# awesome-esim
+# awesome-travel-esim
 A description of the eSIMs at NorthSIM.com
 
 Best Travel eSIMs at [NorthSIM](https://northsim.com.com)
